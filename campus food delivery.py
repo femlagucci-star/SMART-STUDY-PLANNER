@@ -27,10 +27,10 @@ menu = {
 }
 
 riders = {
-    "Brian": "Available",
-    "Daniel": "Available",
-    "Joseph": "Available",
-    "Moses": "Available"
+    "Emphraim": "Available",
+    "Emmanuel": "Available",
+    "Musa": "Available",
+    "Trevor": "Available"
 }
 
 orders = []
